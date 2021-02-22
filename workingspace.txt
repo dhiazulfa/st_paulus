@@ -1,0 +1,15 @@
+      <!-- Working space -->
+      <div class="row workingspace">
+        <div class="col-lg-6">
+          <img src="assets/img/workingspace.png" alt="WorkingSpace" class="img-fluid">
+        </div>
+
+        <div class="col-lg-5">
+          <h3>You <span>Work</span> Like at <span>Home</span></h3>
+          <p>Bekerja dengan suasana hati yang lebih asyik dan mempelajari hal baru setiap harinya</p>
+          <a href="" class="btn btn-primary tombol">Gallery</a>
+        </div>
+
+      </div>
+      <!-- akhir working space -->
+      
